@@ -1,3 +1,21 @@
 [submodule "23571-Decode-Next"]
 	path = 23571-Decode-Next
 	url = https://github.com/MooseCoding/23571-Decode-Next
+[submodule "UnderTheWater"]
+	path = UnderTheWater
+	url = https://github.com/MooseCoding/UnderTheWater
+[submodule "project4-rust-language"]
+	path = project4-rust-language
+	url = https://github.com/MooseCoding/project4-rust-language
+[submodule "project5-ftc-discord-bot"]
+	path = project5-ftc-discord-bot
+	url = https://github.com/MooseCoding/project5-ftc-discord-bot
+[submodule "congress-app-comp"]
+	path = congress-app-comp
+	url = https://github.com/MooseCoding/congress-app-comp
+[submodule "congress-app-comp-26"]
+	path = congress-app-comp-26
+	url = https://github.com/MooseCoding/congress-app-comp-26
+[submodule "23571-Centerstage"]
+	path = 23571-Centerstage
+	url = https://github.com/MooseCoding/23571-Centerstage
